@@ -18,7 +18,7 @@ header {
 }
 
 header .heading {
-  /* headerタグ内のheadingクラスにのみ反映される */
+  /* headerタ:グ内のheadingクラスにのみ反映される */
   font-size: 32px;
 }
 
