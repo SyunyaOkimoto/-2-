@@ -18,10 +18,10 @@
           CARAVAN
         </a>
       </h1>
-      <div class="social">
-        <i class="fab fa-facebook-square"></i>
-        <i class="fab fa-twitter-square"></i>
-        <i class="fab fa-instagram"></i>
+      <div class="socail">
+        <i class="fa-brands fa-facebook-square"></i>
+        <i class="fa-brands fa-twitter-square"></i>
+        <i class="fa-brands fa-instagram-square"></i>
       </div>
     </header>
 
@@ -131,11 +131,10 @@
           <p>3</p>
           <p>></p>
           <p>>></p>
-        </div>
-      </section>
+        </div>      </section>
       <div class="sidebar">
         <section class="popular">
-          <h2 class="sidebar-heading common-heading">Popular</h2>
+          <h2 class="popular-heading common-heading">Popular</h2>
           <div class="sidebar-contents">
             <p class="popular-text">
               To solve old problems,<br />study new species
