@@ -64,7 +64,7 @@ main{
   background-color: #AAAAAA;
 }
 
-@media screen and (max-width: 425px){
+@media screen and (max-width: 768px){
   header{
     width:100%;
   }
@@ -78,15 +78,15 @@ main{
     width: 90%;
     margin:20px auto;
   }
-  
+
   .item-box:first-child{
     margin-top: 0;
   }
-  
+
   .item-box:last-child{
     margin: 0 auto;
   }
-  
+
   .item{
     width: 100%;
   }
